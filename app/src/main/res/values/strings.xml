@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OddOrEven</string>
+    <string name="get_a_random_number">Get a random number</string>
+</resources>
